@@ -1,6 +1,6 @@
-﻿# portafolio Moviles
+﻿# PORTAFOLIO MOVILES
 
- # 📚 Índice de Programas en Dart
+ # Índice de Programas en Dart
 
 | Archivo | Descripción |
 |---------|-------------|
@@ -24,4 +24,5 @@
 | `18a_functions.dart` | Introduce la creación y llamado de funciones reutilizables. |
 | `18b_functions.dart` | Construye tablas de multiplicación mediante funciones parametrizadas. |
 | `19_primos.dart` | Determina si un número dado cumple con las características de un número primo. |
+
 
