@@ -24,5 +24,8 @@
 | `18a_functions.dart` | Introduce la creación y llamado de funciones reutilizables. |
 | `18b_functions.dart` | Construye tablas de multiplicación mediante funciones parametrizadas. |
 | `19_primos.dart` | Determina si un número dado cumple con las características de un número primo. |
+|`20a_factorial.dart`| Determina el factorial de un número|
+|`20b_factorial.dart`| Determina el factorial de un número llamandolo desde una función|
+
 
 
