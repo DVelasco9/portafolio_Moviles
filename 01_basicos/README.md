@@ -28,4 +28,6 @@
 |`20b_factorial.dart`| Determina el factorial de un número llamandolo desde una función|
 
 
+### DIEGO EDUARDO VELASCO BASULTO 
+### ITIID-4
 
