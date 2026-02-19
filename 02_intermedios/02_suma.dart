@@ -10,8 +10,11 @@ int suma(int n){
 }
 
 main(){
-  stdout.writeln('Ingrese un numero: ');
-  int n = int.parse(stdin.readLineSync()!);
+  int n = 0;
+  do {
+    stdout.writeln('Ingrese un numero: ');
+    n = int.parse(stdin.readLineSync()!);
+  } while (n <= 0);
   int resultado = suma(n);
   print('La suma de $n y sus precedentes es $resultado');
 }
