@@ -56,12 +56,7 @@ void main(){
     int n = int.parse(stdin.readLineSync()!);
     pila = insertar(pila, n);
   }
-  
   mostrar(pila);
-
-
   pila = sacar(pila);
-
   mostrar(pila);
-
 }
