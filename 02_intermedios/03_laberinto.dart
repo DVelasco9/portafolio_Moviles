@@ -3,9 +3,9 @@ void comp( x){
 
 }
 
-void move(int n){
-  int p = n;
-}
+// void move(int n){
+//   int p = n;
+// }
 
 
 main(){
