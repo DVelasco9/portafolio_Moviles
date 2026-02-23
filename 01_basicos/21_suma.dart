@@ -11,7 +11,7 @@ int suma(int n){
 
 main(){
   int n = 0;
-  do {
+  do{
     stdout.writeln('Ingrese un numero: ');
     n = int.parse(stdin.readLineSync()!);
   } while (n <= 0);
