@@ -19,4 +19,5 @@ main(){
   }
   print(studentNUM);
   print(name);
+  print("$grade2 y $grade3");
 }
